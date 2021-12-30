@@ -5,7 +5,7 @@ It is recommended to install `docsify-cli` globally, which helps initializing an
 ```bash
 npm i docsify-cli -g
 ```
-
+<iframe src="//player.bilibili.com/player.html?aid=977649139&bvid=BV1q44y177Jv&cid=470297048&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ## Initialize
 
 If you want to write the documentation in the `./docs` subdirectory, you can use the `init` command.
